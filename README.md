@@ -15,14 +15,6 @@ This app helps you stay focused using the Pomodoro Technique — 25 minutes of w
 - Built with love using Tkinter 💛
 
 ---
-
-## 🚀 How to Run
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/pomodoro-timer.git
-   cd pomodoro-timer
----
 📌 Note
 
 If you're on macOS and things look weird in Dark Mode, try switching to Light Mode or setting widget backgrounds manually. Tkinter is a bit old-school 😉
